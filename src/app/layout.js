@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body
         className={`${overpass.className} bg-[#131518] grid place-content-center
-        w-screen h-screen justify-items-center`}
+        w-screen h-screen justify-items-center text-white`}
       >
         {children}
       </body>
