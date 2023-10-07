@@ -15,6 +15,7 @@ export default function Home() {
           width={16}
           height={16}
           src="/images/icon-star.svg"
+          alt="Start logo"
         />
       </div>
       <h1 className="mt-4 text-2xl text-[28px] font-bold">How did we do?</h1>
